@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/09/24 19:27:46.000.654,=C:\Users\WebSysPro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/24 19:28:11.000.492,C:\Users\WebSysPro\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\WebSysPro\Desktop\Delphi Projetos\PrinterServers\UPrinterServers.dfm</Transaction>
+    <Transaction>2021/09/24 19:28:11.000.492,C:\Users\WebSysPro\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\WebSysPro\Desktop\Delphi Projetos\PrinterServers\UPrinterServers.pas</Transaction>
+    <Transaction>2021/09/24 19:28:21.000.546,C:\Users\WebSysPro\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\WebSysPro\Desktop\Delphi Projetos\PrinterServers\PPrinterServers.dproj</Transaction>
+    <Transaction>2021/09/24 19:30:50.000.329,=C:\Users\WebSysPro\Desktop\Delphi Projetos\PrinterServers\Unit1.pas</Transaction>
+    <Transaction>2021/09/24 19:31:16.000.257,C:\Users\WebSysPro\Desktop\Delphi Projetos\PrinterServers\Unit1.pas=C:\Users\WebSysPro\Desktop\Delphi Projetos\PrinterServers\Units\UHttpRequest.pas</Transaction>
+    <Transaction>2021/09/24 21:26:21.000.550,=C:\Users\WebSysPro\Desktop\Delphi Projetos\PrinterServers\Unit1.pas</Transaction>
+    <Transaction>2021/09/24 21:26:56.000.500,C:\Users\WebSysPro\Desktop\Delphi Projetos\PrinterServers\Units\UJsonParse.pas=C:\Users\WebSysPro\Desktop\Delphi Projetos\PrinterServers\Unit1.pas</Transaction>
+    <Transaction>2021/09/24 21:27:24.000.639,C:\Users\WebSysPro\Desktop\Delphi Projetos\PrinterServers\Units\UParseJSON.pas=C:\Users\WebSysPro\Desktop\Delphi Projetos\PrinterServers\Units\UJsonParse.pas</Transaction>
+    <Transaction>2021/10/07 21:38:06.084,C:\Users\WebSysPro\Desktop\Delphi Projetos\PrinterServers\Jotaja.dproj=C:\Users\WebSysPro\Desktop\Delphi Projetos\PrinterServers\PPrinterServers.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
